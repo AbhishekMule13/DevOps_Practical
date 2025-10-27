@@ -1,2 +1,3 @@
-"# DevOps Practical Project" 
-"This is a new update in the feature-login branch." 
+# DevOps Practical Project
+This file contains updates from both main and feature-login branches.
+
